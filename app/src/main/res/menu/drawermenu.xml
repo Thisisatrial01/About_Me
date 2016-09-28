@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/dot"
+        />
+    <item android:title="Skill set"
+        android:id="@+id/skills"
+        android:icon="@drawable/dot"/>
+
+
+    <item android:title="Achievements"
+        android:id="@+id/achieve"
+        android:icon="@drawable/dot"
+        />
+
+
+
+
+
+            <item
+                android:title="Why Android"
+                android:id="@+id/android"
+                android:icon="@drawable/dot"/>
+            <item
+                android:title="Experience Level"
+                android:id="@+id/Experi"
+                android:icon="@drawable/dot"/>
+    <item
+        android:title="dream Project"
+        android:id="@+id/project"
+        android:icon="@drawable/dot"/>
+
+
+
+
+
+
+
+</menu>
